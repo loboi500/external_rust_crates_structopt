@@ -1,14 +1,3 @@
-{
-    "httpHeaders": [
-        {
-            "urls": [
-                "https://",
-                "http://"
-            ],
-            "headers": {
-                "User-Agent": "broken links checker (https://github.com/TeXitoi/structopt)",
-                "Accept": "text/html"
-            }
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a42ba4bcdf67b331fcdf5f61e50040deace7678b02d41297cfdc3dd68d22ec8
+size 312
